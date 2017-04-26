@@ -10,7 +10,7 @@ The game continues until someone gets three in a row, thus becoming the winner.
 
 Cites
 http://stackoverflow.com/questions/21707337/pygame-font-font-render-have-typeerror
-  Font type error 
+  While this was originally for a font type error, I followed the correct code in order to fix mine and understand how to add text to the pygame display screen.
 
 https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAjkwJocj7vlc_mFU-4wXJq
     This is a Youtube playlist made by TheNewBoston that explains the basic necessities of the pygame module. While the tutorials follow a snake game, these lessons can be applied to any sort of game. The first few are simply for the setup of pygame.
