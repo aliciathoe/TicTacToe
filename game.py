@@ -1,3 +1,4 @@
+#Discard this. More like a rough draft. The actual game is on VideoGame.py
 from tkinter import *
 
 TTT = Tk()
